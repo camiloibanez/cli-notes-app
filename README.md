@@ -2,6 +2,8 @@
 
 This is a notes application that runs through the command line built with Node.js. It stores title and body pairs in a json file.
 
+Run `npm install` to load node_modules before running the app.
+
 ### To add a note
 
 `node app.js add --title="title" --body="body"`
